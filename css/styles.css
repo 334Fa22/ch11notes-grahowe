@@ -1,6 +1,6 @@
 /*
-Author:
-Date:
+Author: Owen Graham
+Date: September 27, 2022
 File Name: styles.css
 */
 /* CSS Reset */
@@ -212,11 +212,13 @@ form #submit {
 }
 
 /* Style rules for footer content */
-footer p {
+footer .copyright{
   font-size: 0.75em;
   text-align: center;
   color: #fff;
-  padding: 0 1em;
+  padding: 2% 4%;
+  float: left;
+  width: 75%;
 }
 
 footer p a {
